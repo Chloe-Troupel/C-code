@@ -1,5 +1,5 @@
 # C-code
-Some codes in C I created
+Some programs in C I created
 
 <br/>user gives a directory's path and the programm display the name of all files with 2 methods: directory.c and directory.h
 <br/>create an array of colors and if there is an occurrence displays it: occurenceColors.c
